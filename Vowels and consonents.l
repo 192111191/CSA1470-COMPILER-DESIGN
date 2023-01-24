@@ -18,5 +18,5 @@ printf("enter the string of vowels and consonents:");
 yylex();
 printf("number of vowels are:%d\n",vow_count);
 printf("number of consonaents are:%d\n",const_count);
-return o;
+return 0;
 }
